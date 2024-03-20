@@ -5,7 +5,7 @@
 
 - ⌨️ I’m pushing code daily [Codewars](https://github.com/mfscifly/codewars)
 
-- 👨‍💻 All of my projects are available at [https://aboutdaniel.netlify.app](https://aboutdaniel.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/mfscifly/portfolio)
 
 - 🍕 Fun fact **I make Neapolitan style pizza in 90s**
 
