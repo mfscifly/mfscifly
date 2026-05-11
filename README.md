@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Full stack developer @ 100Devs with a background in business leadership.</h3>
-
-- 💰 I’m currently working on saving you money: [Sumas Prairie Gas Tools](https://github.com/mfscifly/sumas-prairie-gas-calculator)
-
-- ⌨️ I’m pushing code daily: [Codewars](https://github.com/mfscifly/codewars)
-
-- 👨‍💻 All of my projects are available: [My Portfolio](https://github.com/mfscifly/portfolio)
-
-- 🍕 Fun fact **I make Neapolitan style pizza in 90s**
-
+<h3 align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dcabrerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcabrerr" height="30" width="40" /></a>
