@@ -1,10 +1,32 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dcabrerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcabrerr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danielxcabrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielxcabrera" height="30" width="40" /></a>
-</p>
+# Hi, I'm Daniel 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**I lead AI transformation at [Clearbridge Business Solutions](https://clearbridge.ca), and I build with Claude Code every day.**
+
+I'm Director of Service Delivery at a technology service provider in British Columbia. My job is changing how a company works with AI, starting with our own business and then for the client companies we serve: the strategy, the governance, the training, and the agents and apps that make it real.
+
+### What that looks like
+
+- **Our own house first.** Took the whole company to 100% utilization on Claude in five months. Weekly wins sessions, a champion on every team, and technicians doing double the work at higher quality.
+- **Agents doing real work.** They triage and answer tickets, write documentation in minutes instead of hours, score ticket and call quality, and found **$100K+ a year** in unbilled revenue.
+- **A dev team rebuilt around Claude Code.** We don't write code by hand anymore. I start from the business need, design the workflow, build in the checks, and direct the agents that do the build.
+- **Clients, end to end.** Discovery, roadmap, governance, training and measured results for client leadership teams. One client doubled its AI use in 30 days.
+- Clearbridge is a member of Anthropic's Claude Partner Program.
+
+### How I build
+
+Claude Code, agents, MCP connectors, hooks and skills. A dozen-plus apps shipped. I test and compare models, tune the workflow until it holds up, and keep people in the loop where judgment matters.
+
+### Before this
+
+Eleven years at Apple leading service and operations, including a 120+ person operation and a support pilot that went company-wide. That's where I learned that great service is designed, and that new tools only matter once people actually use them.
+
+### Built in public
+
+| | |
+|---|---|
+| 🪴 **[Windowsill](https://github.com/mfscifly/windowsill)** | A calm, phone-first house plant tracker. [Live demo](https://mfscifly.github.io/windowsill/demo/) |
+| ⛽ **[Gas Run](https://gasrun.netlify.app)** | Live Canada-US border waits plus what the trip saves you at the pump |
+
+**Stack I reach for:** Claude Code · MCP · JavaScript / TypeScript · Node · Next.js · Postgres · Supabase
+
+[LinkedIn](https://linkedin.com/in/danielxcabrera)
