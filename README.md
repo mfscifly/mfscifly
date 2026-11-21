@@ -14,7 +14,7 @@ By day I help teams build out their AI and rethink how they work, at [Clearbridg
 ### Currently tinkering with
 
 - Multi-agent workflows that check each other's work
-- MCP servers that put Claude on top of my own data
+- MCP servers that connect Claude to the apps and data I already use
 - Comparing models on the same task to see which one actually wins
 
 **Stack:** Claude Code · MCP · Node · TypeScript · Next.js · Postgres · Supabase
