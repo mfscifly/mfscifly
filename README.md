@@ -1,10 +1,22 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dcabrerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcabrerr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danielxcabrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielxcabrera" height="30" width="40" /></a>
-</p>
+# Hey, I'm Daniel 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I build with Claude Code. Agents, MCP servers, hooks, skills, and a lot of late nights tuning workflows until they hold up. Self-taught coder who learned by hand.
+
+By day I help teams build out their AI and rethink how they work, at [Clearbridge](https://clearbridge.ca).
+
+### Things I've built
+
+| | |
+|---|---|
+| 🪴 **[Windowsill](https://github.com/mfscifly/windowsill)** | A calm, phone-first house plant tracker. [Try the demo](https://mfscifly.github.io/windowsill/demo/) |
+| ⛽ **[Gas Run](https://gasrun.netlify.app)** | Is the trip across the border worth it? Live wait times and pump savings |
+
+### Currently tinkering with
+
+- Multi-agent workflows that check each other's work
+- MCP servers that connect Claude to the apps and data I already use
+- Comparing models on the same task to see which one actually wins
+
+**Stack:** Claude Code · MCP · Node · TypeScript · Next.js · Postgres · Supabase
+
+[LinkedIn](https://linkedin.com/in/danielxcabrera)
