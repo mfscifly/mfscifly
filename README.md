@@ -1,6 +1,6 @@
 # Hey, I'm Daniel 👋
 
-I build with Claude Code. Agents, MCP servers, hooks, skills, and a lot of late nights tuning workflows until they hold up. Self-taught coder who learned it by hand first, which helps when it's time to check the agents' work.
+I build with Claude Code. Agents, MCP servers, hooks, skills, and a lot of late nights tuning workflows until they hold up. Self-taught coder who learned by hand.
 
 By day I help teams build out their AI and rethink how they work, at [Clearbridge](https://clearbridge.ca).
 
